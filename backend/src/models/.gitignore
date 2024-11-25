@@ -1,0 +1,9 @@
+# Backend (for Node.js example)
+/backend/node_modules/
+/backend/dist/
+/backend/.env
+
+# Frontend (for React/Angular example)
+/frontend/node_modules/
+/frontend/build/
+/frontend/.env
